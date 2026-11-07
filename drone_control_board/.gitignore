@@ -1,0 +1,17 @@
+/*
+
+!/.gitignore
+
+# アプリケーション関連
+!/Application/
+!/Application/**
+!/Core/
+!/Core/**
+
+# ビルド関連
+!/cmake/
+!/cmake/**
+!/CmakeLists.txt
+!/drone_control_board.ioc
+!/startup_stm32f303x8.s
+!/STM32F303XX_FLASH.ld
